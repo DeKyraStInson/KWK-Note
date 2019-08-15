@@ -314,7 +314,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0qX-Tn-AaV">
                                 <rect key="frame" x="40" y="204" width="328" height="116.5"/>
                                 <attributedString key="attributedText">
-                                    <fragment content="Click For Cutness">
+                                    <fragment content="Click For Cuteness">
                                         <attributes>
                                             <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="50" name="Menlo-Italic"/>
@@ -358,6 +358,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Fw6-7G-hHy"/>
+        <segue reference="Wx1-Av-Vw4"/>
     </inferredMetricsTieBreakers>
 </document>
